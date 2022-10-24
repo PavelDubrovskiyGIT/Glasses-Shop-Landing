@@ -275,6 +275,7 @@ main .people{
     background-image: url(../pictures/woman3.png);
 }
 .phrase-conainer{
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
 }
