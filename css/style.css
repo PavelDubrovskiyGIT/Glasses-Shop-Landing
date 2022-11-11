@@ -111,7 +111,7 @@ header .content{
     padding-top: 80px;
     flex-direction: column;
     align-items: center;
-    background-image: url('../pictures/header.png');
+    background-image: url('../pictures/header.webp');
     background-repeat: no-repeat;
     background-position: 95% 50%;
     background-size: 488px 578px;
@@ -141,7 +141,7 @@ header .content a::after{
   width: 55px;
   height: 15px;
 
-  background-image: url('../pictures/arrow.png');
+  background-image: url('../pictures/arrow.webp');
 
   background-size: 55px 15px;
 }
@@ -151,10 +151,10 @@ main .people{
     height: 620px;
 }
 .man{
-    background-image: url('../pictures/man.png');
+    background-image: url('../pictures/man.webp');
 }
 .woman{
-    background-image: url('../pictures/woman.png');
+    background-image: url('../pictures/woman.webp');
 }
 .people div{
     flex-grow: 1;
@@ -245,7 +245,7 @@ main .people{
     line-height: 22px;
 }
 .woman2{
-    background-image: url(../pictures/woman2.png);
+    background-image: url(../pictures/woman2.webp);
 }
 .blue-backround{
     display: flex;
@@ -269,10 +269,10 @@ main .people{
     flex-grow: 6;
 }
 .man2{
-    background-image: url(../pictures/man2.png);
+    background-image: url(../pictures/man2.webp);
 }
 .woman3{
-    background-image: url(../pictures/woman3.png);
+    background-image: url(../pictures/woman3.webp);
 }
 .phrase-conainer{
     overflow-x: hidden;
