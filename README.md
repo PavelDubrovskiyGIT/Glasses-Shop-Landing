@@ -1,2 +1,2 @@
 # Glasses-Shop-Landing
- - LANDING (https://paveldubrovskiygit.github.io/Glasses-Shop-Landing/)
+ - LANDING (https://fireeflyx.github.io/Glasses-Shop-Landing/)
